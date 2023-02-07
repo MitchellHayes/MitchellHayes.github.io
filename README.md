@@ -12,9 +12,7 @@ Thanks goes to these wonderful people for helping me out!
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/tzfx"><img src="https://avatars.githubusercontent.com/u/51995971?v=4" width="100px;" alt="A. Stadler"/><br /><sub><b>A. Stadler</b></sub></a><br />
-  </tr>
+    <td align="center"><a href="https://github.com/tzfx"><img src="https://avatars.githubusercontent.com/u/51995971?v=4" width="100px;" alt="A. Stadler"/><br /><sub> <b>A. Stadler</b></sub></a><br />
 </table>
 
 <!-- markdownlint-enable -->
