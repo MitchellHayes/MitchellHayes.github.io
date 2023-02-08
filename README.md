@@ -9,8 +9,5 @@
 
 Thanks goes to these wonderful people for helping me out!
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <td align="center"><a href="https://github.com/tzfx"><img src="https://avatars.githubusercontent.com/u/51995971?v=4" width="100px;" alt="A. Stadler"/><br /><sub> <b>A. Stadler</b></sub></a><br />
 
