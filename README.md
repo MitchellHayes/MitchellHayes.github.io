@@ -1,7 +1,9 @@
 ## My Projects
 
 - Coffee App: <br /> [Coffee App Repo](https://github.com/MitchellHayes/coffee-app) <br />
-[Coffee App Prod](https://MitchellHayes.github.io/coffee-app)
+[Coffee App](https://MitchellHayes.github.io/coffee-app)
+- Pure HTML, CSS & JS Calculator: <br /> [Calculator Repo](https://github.com/MitchellHayes/calculator/tree/main) <br />
+[Calculator](https://mitchellhayes.github.io/calculator)
 - Home Assistant: <br /> [My Config](https://github.com/MitchellHayes/HA-Personal)
 
   
